@@ -5,6 +5,7 @@ Projeto desenvolvido no curso .net direto ministrado pelo LuizDev.net ao ponto c
 <ul>
 <li>ASP.NET core</li>
 <li>SQL Server</li>
+<li>Entity Framework Core</li>
 <li>CQRS com MediatR</li>
 <li>Validações com Fluent Validations</li>
 <li>Swagger</li>
