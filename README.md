@@ -16,7 +16,9 @@ Projeto desenvolvido no curso .net direto ministrado pelo LuizDev.net ao ponto c
 <h3>Comando para gerar migrations</h3>
 o path do terminal deverá estar na pasta da class library do repositório:
 
-01 dotnet ef migrations add FirstMigration -s ..\DevFreela.API\DevFreela.API.csproj -o .\Persistentece\Migrations <br/>
-02 dotnet ef database update -s  ..\DevFreela.API\DevFreela.API.csproj
+<ul>
+  <li>01 dotnet ef migrations add FirstMigration -s ..\DevFreela.API\DevFreela.API.csproj -o .\Persistentece\Migrations<l1>
+  <li>02 dotnet ef database update -s  ..\DevFreela.API\DevFreela.API.csproj</li>
+</ul>
 
 
