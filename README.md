@@ -9,6 +9,8 @@ Projeto desenvolvido no curso .net direto ministrado pelo LuizDev.net ao ponto c
 <li>Validações com Fluent Validations</li>
 <li>Swagger</li>
 <li>JWT</li>
+<li>Azure Pipelines</li>
+<li>Testes Unitários</li>
 </ul>
 
 <h3>Comando para gerar migrations</h3>
