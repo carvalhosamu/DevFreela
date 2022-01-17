@@ -1,6 +1,7 @@
 <h1> Dev Freela </h1>
 
-Projeto desenvolvido no curso .net direto ministrado pelo LuizDev.net ao ponto com o objetivo de fixar os seguintes conhecimentos :
+Projeto desenvolvido no curso .net direto ministrado pelo LuizDev.net ao ponto que cria uma plataforma de integração com freelancers e pessoas que desejam contratar devs
+com o objetivo de fixar os seguintes conhecimentos:
 
 <ul>
 <li>ASP.NET core</li>
